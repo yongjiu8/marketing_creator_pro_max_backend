@@ -82,7 +82,16 @@ https://github.com/libn-net/marketing_creator_pro_max_backend
   - 搜狐号
   - ...等
 
-
+<img src="./doc/pro_01.jpg" />
+<img src="./doc/pro_02.jpg" />
+<img src="./doc/pro_03.jpg" />
+<img src="./doc/pro_04.jpg" />
+<img src="./doc/pro_05.jpg" />
+<img src="./doc/pro_06.jpg" />
+<img src="./doc/pro_07.jpg" />
+<img src="./doc/pro_08.jpg" />
+<img src="./doc/pro_09.jpg" />
+<img src="./doc/pro_10.jpg" />   
 
 
 ## 感谢开源项目：
@@ -99,8 +108,8 @@ https://github.com/star4564
 https://github.com/WangWei974747584
 
 ## 基友&基友圈（请备注：开源数字人交流）
-<img src="./wx_01.jpg" width="300" />
-<img src="./wx_02.jpg" width="300" />
+<img src="./doc/wx_01.jpg" width="300" />
+<img src="./doc/wx_02.jpg" width="300" />
 
 
 ## 1 环境配置
