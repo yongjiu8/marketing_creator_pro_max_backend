@@ -100,7 +100,8 @@ https://github.com/WangWei974747584
 
 ## 基友&基友圈
 （请备注：开源数字人交流）
-
+<img src="./wx_01.jpg" width="300" />
+<img src="./wx_02.jpg" width="300" />
 
 
 ## 1 环境配置
