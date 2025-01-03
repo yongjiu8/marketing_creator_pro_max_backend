@@ -98,8 +98,7 @@ https://github.com/songyanbin
 https://github.com/star4564
 https://github.com/WangWei974747584
 
-## 基友&基友圈
-（请备注：开源数字人交流）
+## 基友&基友圈（请备注：开源数字人交流）
 <img src="./wx_01.jpg" width="300" />
 <img src="./wx_02.jpg" width="300" />
 
@@ -295,7 +294,7 @@ OSS_BUCKET_NAME=your_bucket_name
 
 ## 3 下载必备的材料
 
-参考网站百度网盘 XXX
+参考网站百度网盘 [点击这里](https://pan.baidu.com/s/1t6W4rNdsDuHmfgHtS05fZw?pwd=nbig)
 
 将网盘的`data/public`目录下的内容放入该项目`项目根目录/data/public`目录下(不存在则自行创建)
 
