@@ -1,0 +1,17 @@
+﻿fastapi==0.110.0
+uvicorn==0.27.1
+sqlalchemy==2.0.28
+pydantic==2.6.3
+python-dotenv==1.0.1
+alembic==1.13.1
+torch
+ffmpeg-python
+# 最好是单独一个服务
+faster-whisper
+playwright
+apscheduler
+srt
+cachetools
+Pillow
+oss2
+boto3
