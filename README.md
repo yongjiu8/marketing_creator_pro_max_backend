@@ -95,17 +95,17 @@ https://github.com/libn-net/marketing_creator_pro_max_backend
 
 
 ## 感谢开源项目：
-https://github.com/anliyuan/Ultralight-Digital-Human
-https://github.com/fishaudio/fish-speech
-https://github.com/Tzenthin/wenet_mnn
-https://github.com/FFmpeg/FFmpeg
+- https://github.com/anliyuan/Ultralight-Digital-Human
+- https://github.com/fishaudio/fish-speech
+- https://github.com/Tzenthin/wenet_mnn
+- https://github.com/FFmpeg/FFmpeg
 
 ## 感谢开源的贡献者：
-https://github.com/wxc1207
-https://github.com/libn-net
-https://github.com/songyanbin
-https://github.com/star4564
-https://github.com/WangWei974747584
+- https://github.com/wxc1207
+- https://github.com/libn-net
+- https://github.com/songyanbin
+- https://github.com/star4564
+- https://github.com/WangWei974747584
 
 ## 基友&基友圈（请备注：开源数字人交流）
 <img src="./doc/wx_01.jpg" width="300" />
